@@ -1,0 +1,5 @@
+use python virtual environment
+1. find the VENV fold and cd bin
+2. ~ source activate
+3. check with ~ which python
+
