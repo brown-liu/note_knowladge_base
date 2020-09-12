@@ -1,0 +1,11 @@
+git --version
+
+git config --list
+
+git init
+
+git add -A === to add all file in that folder to git
+
+git status
+
+git reset
