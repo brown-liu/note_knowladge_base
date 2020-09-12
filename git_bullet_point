@@ -32,4 +32,10 @@ git checkout <branch name>
 
 git checkout master
 
+git pull origin master --allow-unrelated-histories
 
+git merge <branch name>  === change directory to master first
+
+git push origin --delete <branch name> ====  delete branch on git
+
+git branch -d <branch name>   === delete local branch
