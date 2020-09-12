@@ -9,3 +9,18 @@ git add -A === to add all file in that folder to git
 git status
 
 git reset
+
+git log
+
+git clone <url> <local address to store file>   use . for current directory
+
+git remote -v                   show remote 
+
+git branch -a
+
+git diff
+
+git pull origin master
+
+git push origin master
+
